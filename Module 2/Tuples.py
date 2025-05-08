@@ -1,4 +1,4 @@
-#  collection of items, ordered, imutable (once created, cannot be changed)
+ #  collection of items, ordered, imutable (once created, cannot be changed)
 word=("pizza","sandwich","rice","burger")
 print(word[0])
 #word[0]="peperoni pizza" - this will generate an error
