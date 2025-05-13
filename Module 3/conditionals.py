@@ -18,6 +18,7 @@ temperature=28
 if temperature>30:
     print("its hot day, stay inside")
 elif 20<=temperature<=30:
+
     print("THe weather is nice")
 else:
     print("cold")
