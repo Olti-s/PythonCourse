@@ -1,6 +1,4 @@
-from email.policy import default
 
-from pyexpat.errors import messages
 
 total=0
 
