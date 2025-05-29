@@ -1,6 +1,3 @@
-from reprlib import aRepr
-
-
 def calculate_area(length, width):
     return length * width
 

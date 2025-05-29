@@ -1,4 +1,3 @@
-
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -10,6 +9,3 @@ class Person:
 p1= Person("Olti", 18)
 
 p1.greet()
-
-
-
